@@ -1,9 +1,6 @@
 ## Samuel Vitor 💻
 
 **`Desenvolvedor de Software`**
-# 👩🏻‍💻 Larissa Kich
-
-**`Desenvolvedora FullStack`**
 
 ---
 
